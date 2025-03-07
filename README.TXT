@@ -56,7 +56,3 @@ Este projeto é aberto para contribuições. Fique à vontade para melhorar o c�
 2. Crie uma branch para sua modificação.
 3. Envie um pull request com uma descrição clara da sua alteração.
 
-## Licença
-
-Este projeto é de código aberto e está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
-
