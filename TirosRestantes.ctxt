@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TirosRestantes
+comment0.text=\r\n\ Exibe\ ao\ jogador\ quantos\ tiros\ ainda\ restam.\r\n\ @author\ Maycon\r\n\ @version\ 18/12/2024\r\n
+comment1.params=texto\ tamanhoFonte
+comment1.target=TirosRestantes(java.lang.String,\ int)
+comment1.text=\r\n\ O\ construtor\ da\ classe\ \u00E9\ reponsavel\ por\ garantir\ um\ estado\ v\u00E1lido\ de\ objeto\r\n\ inicializando\ variaveis\ e\ chamando\ o\ m\u00E9todo\ pertinente\ ao\ objeto.\r\n
+comment2.params=texto
+comment2.target=void\ setText(java.lang.String)
+comment2.text=\r\n\ Define\ um\ novo\ valor\ para\ o\ atributo\ texto\r\n\ e\ chama\ o\ m\u00E9todo\ para\ que\ a\ mudan\u00E7a\ seja\r\n\ refletida\ para\ o\ usu\u00E1rio.\r\n
+comment3.params=
+comment3.target=void\ atualizarImagem()
+comment3.text=\r\n\ Atualiza\ a\ informa\u00E7\u00E3o\ com\ o\ novo\ texto\ de\ quantos\r\n\ tiros\ ainda\ restam.\r\n
+numComments=4

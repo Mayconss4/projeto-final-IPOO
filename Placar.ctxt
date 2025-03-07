@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Placar
+comment0.text=\r\n\ Confgura\ o\ placar\ na\ tela\ do\ jogo\r\n\ @author\ Maycon\r\n\ @version\ 18/12/2024\r\n
+comment1.params=texto\ tamanhoFonte
+comment1.target=Placar(java.lang.String,\ int)
+comment1.text=\r\n\ Construtor\ que\ inicializa\ vari\u00E1veis\ garantindo\ um\ \r\n\ estado\ v\u00E1lido\ de\ objeto\ \r\n
+comment2.params=texto
+comment2.target=void\ setText(java.lang.String)
+comment2.text=\r\n\ Define\ um\ novo\ valor\ para\ o\ atributo\r\n\ texto\ e\ chama\ o\ m\u00E9todo\ para\ atualizar\r\n\ a\ informa\u00E7\u00E3o\ para\ o\ usu\u00E1rio\r\n
+comment3.params=
+comment3.target=void\ atualizarImagem()
+comment3.text=\r\n\ Atualiza\ a\ informa\u00E7\u00E3o\ na\ tela\r\n
+numComments=4

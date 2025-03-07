@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=AviaoDeSuprimentos
+comment0.text=\r\n\ A\ classe\ avi\u00E3o\ de\ suprimentos\r\n\ @author\ Maycon\ \r\n\ @version\ 15/12/2024\r\n
+comment1.params=
+comment1.target=AviaoDeSuprimentos()
+comment1.text=\r\n\ O\ construtor\ da\ classe\ \u00E9\ reponsavel\ por\ garantir\ um\ estado\ v\u00E1lido\ de\ objeto\r\n\ inicializando\ variaveis\ e\ chamando\ o\ m\u00E9todo\ pertinente\ ao\ objeto.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ O\ m\u00E9todo\ act()\ \u00E9\ respons\u00E1vel\ por\ chamar\ os\ m\u00E9todos\ que\ definem\ a\ velocidade\ do\ \r\n\ avi\u00E3o,\ que\ mudam\ sua\ dire\u00E7\u00E3o\ e\ que\ define\ quando\ adicionar\ muni\u00E7\u00F5es\ ao\ mundo.\r\n
+comment3.params=
+comment3.target=void\ mudarDeAngulo()
+comment3.text=\r\n\ M\u00E9todo\ para\ que\ as\ dire\u00E7\u00F5es\ do\ voo\ do\ avi\u00E3o\ \r\n\ aconte\u00E7am\ de\ maneira\ aleatoria.\r\n
+comment4.params=
+comment4.target=void\ estaNaBorda()
+comment4.text=\r\n\ Muda\ de\ dire\u00E7\u00E3o\ se\ o\ avi\u00E3o\ atingir\ a\ borda\ do\ mundo\r\n
+comment5.params=
+comment5.target=void\ intervaloEntreEntregasMunicoes()
+comment5.text=\r\n\ Monitora\ o\ intervalo\ em\ que\ as\ municoes\ devem\ ser\ deixadas\r\n\ no\ campo\ de\ batalha\r\n
+comment6.params=
+comment6.target=void\ entregarMunicoes()
+comment6.text=\r\n\ Deixa\ municoes\ no\ mundo\ de\ modo\ que\ o\ tanque\ do\ jogador\ tenha\ saida\ caso\ suas\ \r\n\ municoes\ iniciais\ acabem\r\n
+comment7.params=
+comment7.target=void\ definirImagemPadrao()
+comment7.text=\r\n\ O\ m\u00E9todo\ definirImagemPadrao()\ \u00E9\ usado\ para\ construir\ a\ imagem\ inicial\ do\ aviao\r\n\ diminuindo\ sua\ imagem\ original\ visto\ que\ era\ muito\ grande\r\n
+numComments=8

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Tiro
+comment0.text=\r\n\ Classe\ para\ os\ tiros\ disparados\ pelos\ tanques.\r\n\ @author\ Maycon\r\n\ @version\ 18/12/2024\r\n\ \r\n
+comment1.params=
+comment1.target=Tiro()
+comment1.text=\r\n\ Construtor\ da\ classe\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Define\ as\ a\u00E7\u00F5es\ do\ objeto\r\n
+comment3.params=
+comment3.target=void\ estaNaBorda()
+comment3.text=\r\n\ Remove\ o\ objeto\ tiro\ do\ mundo\ se\ ele\ atingir\ a\ borda\r\n
+comment4.params=
+comment4.target=void\ definirImagemDoTiro()
+comment4.text=\r\n\ M\u00E9todo\ usado\ para\ definir\ a\ imagem\ do\ tiro\r\n\ ja\ que\ o\ projetil\ ser\u00E1\ simplesmente\ uma\ "imagem"\r\n\ vermelha\ que\ se\ desloca\ no\ mundo\r\n
+numComments=5

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Derrota
+comment0.text=\r\n\ A\ clsse\ derrota\ \u00E9\ respons\u00E1vel\ por\ mostrar\ ao\ jogador\ caso\r\n\ ele\ perca\ o\ jogo.\ Essa\ demonstra\u00E7\u00E3o\ acompanha\ textos\ e\ som\ \r\n\ que\ induz\ a\ experi\u00EAncia.\r\n\ @author\ Maycon\ \r\n\ @version\ 18/12/2024\r\n
+comment1.params=
+comment1.target=Derrota()
+comment1.text=\r\n\ Construtor\ da\ classe\ com\ a\ fun\u00E7\u00E3o\ de\ inicializar\r\n\ variavel\ e\ chamar\ todos\ os\ m\u00E9todos\ inerentes\ a\r\n\ um\ estado\ de\ objeto\ v\u00E1lido.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ M\u00E9todo\ unicamente\ respons\u00E1vel\ por\ iniciar\ mais\ um\ jogo.\r\n
+comment3.params=
+comment3.target=void\ definirCorDoMundo()
+comment3.text=\r\n\ Define\ a\ cor\ do\ mundo.\r\n
+comment4.params=
+comment4.target=void\ textoInformativoAoUsuario()
+comment4.text=\r\n\ Define\ o\ que\ ser\u00E1\ escrito\ na\ tela\ para\ o\ usu\u00E1rio.\r\n
+comment5.params=
+comment5.target=void\ tocarMusicaDeDerrota()
+comment5.text=\r\n\ Toca\ m\u00FAsica\ sinalizando\ a\ derrota.\r\n
+numComments=6

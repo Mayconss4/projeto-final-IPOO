@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=TanqueAnimado
+comment0.text=\r\n\ Tanque\ que\ se\ movimenta\ e\ atira\ automaticamente\ para\ dar\ anima\u00E7\u00E3o\ a\ tela\ inicial.\r\n\ @author\ Maycon\r\n\ @version\ 19/12/2024\r\n
+comment1.params=
+comment1.target=TanqueAnimado()
+comment1.text=\r\n\ Construtor\ da\ classe\ inicializa\ variaveis\ para\ um\ estado\ v\u00E1lido\ de\ objeto\r\n\ e\ chama\ m\u00E9tos\ pertinentes\ tamb\u00E9m\ para\ o\ bom\ funcionamento\ do\ objeto.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Define\ a\u00E7\u00F5es\ do\ objeto\r\n
+comment3.params=
+comment3.target=void\ estaNaBorda()
+comment3.text=\r\n\ Muda\ a\ dire\u00E7\u00E3o\ do\ objeto\ quando\ ele\ atinge\ a\ borda\ do\ mundo\r\n
+comment4.params=
+comment4.target=void\ atirarEntreIntervalos()
+comment4.text=\r\n\ Dispara\ um\ projetil\ a\ cada\ 50\ chamadas\ do\ m\u00E9todo\r\n
+comment5.params=
+comment5.target=void\ atirar()
+comment5.text=\r\n\ Cria\ e\ adiociona\ objetos\ tiro\ ao\ mundo.\r\n
+comment6.params=
+comment6.target=void\ definirImagemPadrao()
+comment6.text=\r\n\ Define\ a\ imagem\ padr\u00E3o\ do\ tanque.\r\n
+numComments=7

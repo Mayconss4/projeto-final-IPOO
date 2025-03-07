@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=TelaInicial
+comment0.text=\r\n\ A\ tela\ inicial\ \u00E9\ o\ primeiro\ contato\ do\ jogador\ com\ a\ aplica\u00E7\u00E3o\r\n\ e\ \u00E9\ nela\ que\ o\ jogador\ aprende\ tudo\ que\ \u00E9\ necess\u00E1rio\ para\ fazer\ um\ bom\ jogo\r\n\ @author\ Maycon\ \r\n\ @version\ 18/12/2024\r\n
+comment1.params=
+comment1.target=TelaInicial()
+comment1.text=\r\n\ O\ construtor\ da\ tela\ inicial\ \u00E9\ reponsavel\ por\ garantir\ um\ estado\ v\u00E1lido\ de\ objeto\r\n\ inicializando\ variaveis\ e\ chamando\ m\u00E9todos\ pertinentes\ ao\ objeto.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Ao\ apertar\ enter\ o\ jogador\u00E9\ direcionado\ para\ o\ campo\ de\ batalha\ definitivo.\r\n
+comment3.params=
+comment3.target=void\ definirCorDoMundo()
+comment3.text=\r\n\ Define\ a\ cor\ para\ o\ background\ do\ mundo.\r\n
+comment4.params=
+comment4.target=void\ definirCorDoTexto()
+comment4.text=\r\n\ Define\ a\ cor\ do\ texto.\r\n
+comment5.params=
+comment5.target=void\ textoInformativoAoUsuario()
+comment5.text=\r\n\ Define\ o\ que\ ser\u00E1\ escrito\ para\ o\ jogador.\r\n
+comment6.params=
+comment6.target=void\ adicionarTanques()
+comment6.text=\r\n\ Adiciona\ os\ objetos\ que\ servem\ de\ anima\u00E7\u00E3o\ para\ proporcionar\ certo\ dinamismo\ \r\n\ a\ leitura\ do\ funcionamento\ do\ jogo.\r\n
+numComments=7

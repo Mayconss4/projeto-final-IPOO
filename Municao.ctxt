@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Municao
+comment0.text=\r\n\ A\ classe\ municao\ define\ um\ ator\ que\ ser\u00E1\ inserido\ no\ mundo\ \r\n\ e\ ser\u00E1\ recolhido\ pelo\ tanque\ do\ jogador\ com\ a\ inten\u00E7\u00E3o\ de\ incrementar\r\n\ seus\ tiros.\r\n\ @author\ Maycon\r\n\ @version\ 18/12/2024\r\n
+comment1.params=
+comment1.target=Municao()
+comment1.text=\r\n\ Construtor\ que\ chama\ o\ m\u00E9todo\ responsavel\ pela\r\n\ configura\u00E7\u00E3o\ padronizada\ na\ muni\u00E7\u00E3o\r\n
+comment2.params=
+comment2.target=void\ definirImagemPadrao()
+comment2.text=\r\n\ Define\ os\ padr\u00F5es\ para\ a\ imagem\ do\ ator\ muni\u00E7\u00E3o\r\n
+numComments=3
