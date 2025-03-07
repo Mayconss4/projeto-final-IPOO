@@ -1,90 +1,61 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jogo "Combate Remasterizado"</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            color: #333;
-            margin: 40px;
-        }
-        h1 {
-            color: #2e8b57;
-        }
-        h2 {
-            color: #333;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        li {
-            padding: 5px 0;
-        }
-        .highlight {
-            color: #ff6347;
-        }
-        .instructions {
-            background-color: #eef;
-            padding: 10px;
-            border-radius: 5px;
-        }
-        .code-snippet {
-            background-color: #282c34;
-            color: white;
-            padding: 10px;
-            border-radius: 5px;
-            font-family: 'Courier New', Courier, monospace;
-        }
-    </style>
-</head>
-<body>
+# Jogo "Combate Remasterizado" - README
 
-    <h1>Jogo "Combate Remasterizado"</h1>
+## Descrição
 
-    <p><strong>Descrição:</strong></p>
-    <p>"Combate Remasterizado" é um jogo de batalha de tanques desenvolvido em Java utilizando a plataforma Greenfoot. O jogo oferece ao jogador uma experiência onde ele controla um tanque marrom e deve destruir 10 tanques inimigos para vencer. O jogo inclui elementos de estratégia, como gerenciamento de munição e coleta de suprimentos. A cada vitória, o jogador avança para uma nova fase do jogo.</p>
+"**Combate Remasterizado**" é um jogo de batalha de tanques desenvolvido em Java utilizando a plataforma Greenfoot. O jogo oferece ao jogador uma experiência onde ele controla um tanque marrom e deve destruir 10 tanques inimigos para vencer. O jogo inclui elementos de estratégia, como gerenciamento de munição e coleta de suprimentos. A cada vitória, o jogador avança para uma nova fase do jogo.
 
-    <h2><span class="highlight">Objetivo do Jogo:</span></h2>
-    <ul>
-        <li>Controle o tanque marrom utilizando as setas direcionais do teclado.</li>
-        <li>Atire usando a tecla "F".</li>
-        <li>Destrua os tanques inimigos para somar pontos e alcançar 1000 pontos para vencer.</li>
-        <li>Recolha munição deixada por um avião sobrevoador quando os tiros do jogador estiverem abaixo de 90.</li>
-        <li>Vença a batalha eliminando todos os tanques inimigos e complete o objetivo de derrotá-los.</li>
-    </ul>
+## Objetivo do Jogo
 
-    <h2><span class="highlight">Como Jogar:</span></h2>
-    <ol>
-        <li><strong>Tela Inicial:</strong> O jogador aprenderá as instruções do jogo e pressionará ENTER para iniciar o jogo.</li>
-        <li><strong>Campo de Batalha:</strong> A fase inicial começa e o jogador controla o tanque enquanto tenta eliminar os inimigos e recolher suprimentos.</li>
-        <li><strong>Vencer ou Perder:</strong> O jogador vence quando atingir 1000 pontos, eliminando todos os tanques inimigos. Caso o jogador seja atingido, ele perde.</li>
-        <li><strong>Nova Partida:</strong> O jogador pode reiniciar o jogo pressionando ENTER após uma derrota ou vitória.</li>
-    </ol>
+- **Controle o tanque marrom** utilizando as setas direcionais do teclado.
+- **Atire** usando a tecla "F".
+- **Destrua os tanques inimigos** para somar pontos e alcançar 1000 pontos para vencer.
+- **Recolha munição** deixada por um avião sobrevoador quando os tiros do jogador estiverem abaixo de 90.
+- **Vença a batalha** eliminando todos os tanques inimigos e complete o objetivo de derrotá-los.
 
-    <h2><span class="highlight">Estrutura do Jogo:</span></h2>
-    <ul>
-        <li><strong>Tela Inicial:</strong> Apresenta as instruções e opções de início do jogo.</li>
-        <li><strong>Campo de Batalha:</strong> Local onde ocorre a ação do jogo, com os tanques do jogador e inimigos.</li>
-        <li><strong>Tela de Vitória:</strong> Mostra uma mensagem quando o jogador vence a partida.</li>
-        <li><strong>Tela de Derrota:</strong> Exibe a mensagem quando o jogador perde e permite reiniciar o jogo.</li>
-    </ul>
+## Como Jogar
 
-    <h2><span class="highlight">Recursos:</span></h2>
-    <ul>
-        <li><strong>Música de Fundo:</strong> Sons de vitória e derrota são tocados ao longo do jogo.</li>
-        <li><strong>Elementos Visuais:</strong> Animações de tanques e um avião aliado que deixa munição para o jogador.</li>
-        <li><strong>Controles:</strong> Setas do teclado para movimentar o tanque e tecla "F" para atirar.</li>
-    </ul>
+1. **Tela Inicial**: O jogador aprenderá as instruções do jogo e pressionará **ENTER** para iniciar o jogo.
+2. **Campo de Batalha**: A fase inicial começa e o jogador controla o tanque enquanto tenta eliminar os inimigos e recolher suprimentos.
+3. **Vencer ou Perder**: O jogador vence quando atingir 1000 pontos, eliminando todos os tanques inimigos. Caso o jogador seja atingido, ele perde.
+4. **Nova Partida**: O jogador pode reiniciar o jogo pressionando **ENTER** após uma derrota ou vitória.
 
-    <h2><span class="highlight">Tecnologias Utilizadas:</span></h2>
-    <ul>
-        <li>Java</li>
-        <li>Greenfoot (plataforma de desenvolvimento de jogos)</li>
-    </ul>
+## Estrutura do Jogo
 
-</body>
-</html>
+- **Tela Inicial**: Apresenta as instruções e opções de início do jogo.
+- **Campo de Batalha**: Local onde ocorre a ação do jogo, com os tanques do jogador e inimigos.
+- **Tela de Vitória**: Mostra uma mensagem quando o jogador vence a partida.
+- **Tela de Derrota**: Exibe a mensagem quando o jogador perde e permite reiniciar o jogo.
+
+## Recursos
+
+- **Música de Fundo**: Sons de vitória e derrota para aumentar a imersão.
+- **Placar**: A pontuação é exibida durante a batalha, e o objetivo é atingir 1000 pontos.
+- **Animações**: Animações de tanques e movimentação para dinamizar o jogo.
+
+## Como Executar o Jogo
+
+1. Faça o clone deste repositório ou baixe os arquivos.
+2. Compile e execute o projeto no Greenfoot para rodar o jogo.
+
+## Dependências
+
+- **Greenfoot**: A plataforma utilizada para o desenvolvimento do jogo. Certifique-se de ter o Greenfoot instalado em seu ambiente de desenvolvimento.
+
+## Arquivos
+
+- **CampoDeBatalhaUm**: Controla o campo de batalha, adicionando tanques e atualizando a pontuação.
+- **Derrota**: Mostra a tela de derrota com a opção de reiniciar o jogo.
+- **TelaInicial**: Apresenta as instruções e inicia o jogo.
+- **Vitoria**: Exibe a tela de vitória ao jogador.
+
+## Contribuições
+
+Este projeto é aberto para contribuições. Fique à vontade para melhorar o código e compartilhar melhorias. Para contribuir:
+
+1. Fork o repositório.
+2. Crie uma branch para sua modificação.
+3. Envie um pull request com uma descrição clara da sua alteração.
+
+## Licença
+
+Este projeto é de código aberto e está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
